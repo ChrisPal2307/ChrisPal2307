@@ -31,5 +31,5 @@ Sistema basado en arquitectura Transformer para traducción de texto de inglés 
 ---
 
 ## Tecnologías 
-Inicialmente, se utilizó NumPy para implementar manualmente las operaciones matemáticas como la propagación hacia adelante y la actualización de pesos mediante el descenso del gradiente. Esto permitió comprender el funcionamiento interno de modelos de aprendizaje automático y entender cómo frameworks especializados automatizan estos procesos. Más adelante, se usó PyTorch para construir y entrenar modelos de manera más eficiente, facilitando la implementación de arquitecturas más complejas como redes convolucionales y modelos basados en Transformers.
+Inicialmente, se utilizó NumPy para implementar manualmente operaciones como la propagación hacia adelante y el descenso del gradiente. Esto me permitió comprender el funcionamiento interno de modelos y entender cómo frameworks  automatizan estos procesos. Más adelante, se usó PyTorch para construir y entrenar modelos de manera más eficiente, facilitando la implementación de arquitecturas más complejas como redes convolucionales y modelos basados en Transformers.
 
