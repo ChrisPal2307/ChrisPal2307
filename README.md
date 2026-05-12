@@ -1,16 +1,9 @@
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-## Información personal
-* Nombre: Christian Javier Palma Carpio
-* Ocupación: Estudiante
-* Lugar de residencia: Guayas - Ecuador
-* Sitio web:
-## Proyectos
-* [Lista de tus proyectos]
-## Intereses
 
+## Proyectos recientes
+* [Redes Neuronales desde cero](https://github.com/ChrisPal2307/Redes-Neuronales)
+* [Clasificador MNIST](https://github.com/ChrisPal2307/Redes-Convolucionales)
+* [Traductor Inglés->Español](https://github.com/ChrisPal2307/Redes-Transformer)
+## Intereses
